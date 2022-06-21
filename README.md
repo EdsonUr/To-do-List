@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/EdsonUr/Password-Generator">
+  <a href="https://github.com/EdsonUr/To-do-List">
     <img src="assets/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -89,6 +89,6 @@ Benefícios desse aplicativo:
 Fique à vontade para me contatar!
 
 ## Screenshots
- <a href="https://github.com/EdsonUr/Password-Generator">
+ <a href="https://github.com/EdsonUr/To-do-List">
     <img src="assets/ft1.png" alt="Logo">
  </a>
